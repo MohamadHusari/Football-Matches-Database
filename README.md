@@ -9,12 +9,12 @@
 
 # First Script :
 Download all the files install the requierd modules start the Main.py file.
-######Requierd modules:
+###### Requierd modules:
 ```ssh
 $ pip install beautifulsoup4
 $ pip install requests
 ```
-######Run the script:
+###### Run the script:
 ```ssh
 $ cd /download-folder
 $ python Main.py
@@ -22,13 +22,13 @@ $ python Main.py
 
 # Second Script :
 Get the data from sportdeer.com url with a spider
-######Requierd modules:
+###### Requierd modules:
 ```ssh
 $ pip install requests
 $ pip install configparser
 $ pip install logging
 ```
-######Run the script:
+###### Run the script:
 ```ssh
 $ cd /download-folder
 $ python SportDeerSpider.py
