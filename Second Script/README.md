@@ -6,13 +6,13 @@
 
 # Second Script :
 Get the data from sportdeer.com url with a spider
-######Requierd modules:
+###### Requierd modules:
 ```ssh
 $ pip install requests
 $ pip install configparser
 $ pip install logging
 ```
-######Run the script:
+###### Run the script:
 ```ssh
 $ cd /download-folder
 $ python SportDeerSpider.py
