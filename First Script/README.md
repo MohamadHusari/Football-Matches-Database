@@ -6,12 +6,12 @@
 
 # First Script :
 Download all the files install the requierd modules start the Main.py file.
-######Requierd modules:
+###### Requierd modules:
 ```ssh
 $ pip install beautifulsoup4
 $ pip install requests
 ```
-######Run the script:
+###### Run the script:
 ```ssh
 $ cd /download-folder
 $ python Main.py
